@@ -7,8 +7,8 @@ const TransactionHistory = ({ transaction }) => {
     return (
         <div className="transaction-history">
             {
-                transaction.map(trans => (
-                    <TransactionItems key={trans.id} transactionItem={trans} />
+                transaction.map((trans, index) => (
+                    <TransactionItems key={trans.id} index={index} transactionItem={trans} />
                 ))
             }
         </div>

@@ -4,6 +4,7 @@ import { connect } from 'react-redux'
 
 const CurrentBalance = ({ transaction }) => {
     let result = transaction.map(amount => amount.amount);
+    console.log('result',result)
     const total = result.reduce((acc, item) => (acc += item), 0).toFixed(2)
     return (
         <div className="current-balance text-center">

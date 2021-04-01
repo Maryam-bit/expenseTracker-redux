@@ -5,9 +5,9 @@ const setTransaction = transaction => ({
     payload: transaction
 })
 
-const deleteTransaction = transaction => ({
+const deleteTransaction = id => ({
     type: transactionActionType.DELETE_TRANSACTION,
-    payload: transaction,
+    payload: id
 
 })
 
