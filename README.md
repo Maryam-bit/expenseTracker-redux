@@ -52,4 +52,3 @@ Following are the technologies that I used in this project(shoe store)
 * Email - noormaryam530@gmail.com
 * Facebook - https://www.facebook.com/profile.php?id=100037932721862
 * Porfolio - http://dev_maryam2004.surge.sh/
-
