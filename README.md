@@ -1,7 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://scontent.fisb7-1.fna.fbcdn.net/v/t1.15752-9/192546250_213161857300103_5442800729776006111_n.png?_nc_cat=100&ccb=1-3&_nc_sid=ae9488&_nc_ohc=3r9haEzeR9cAX9exAQx&_nc_ht=scontent.fisb7-1.fna&oh=1ff475f6a0fbd2b0c1538d2005c361d2&oe=60CA7102" alt="Flowers in Chania" width="200">
+  
+  <img src="http://expense-tracker-reduxx.surge.sh/static/media/logoo.1999b8fb.png" alt="Expense Tracker in Redux" width="200">
 
   <h1 align="center">EXPENSE TRACKER APP IN CONTEXT API</h1>
 </div>
