@@ -7,12 +7,12 @@ const IncomeExpense = ({ transaction }) => {
 
     const income = result
         .filter(item => item > 0)
-        .reduce((acc, item) => (acc += item), 0)
+        .reduce((acc, item) => Number(acc += item), 0)
         .toFixed(2);
 
     const expense = (
         result.filter(item => item < 0)
-            .reduce((acc, item) => (acc += item), 0) * -1
+            .reduce((acc, item) => Number(acc += item), 0) * -1
     ).toFixed(2);
     
     return (

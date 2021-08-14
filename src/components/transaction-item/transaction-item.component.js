@@ -19,7 +19,7 @@ const TransactionItems = (props) => {
             <div className='transaction-item'>
                 <span className="text">{text}</span>
                 <button className="arrow" onClick={() => deleteData(props.index)}>&#10006;</button>
-                <span className="amount">${amount}</span>
+                <span className={amount>0 ? 'p-amount' : 'n-amount'}>${amount}</span>
             </div>
         </>
     )
