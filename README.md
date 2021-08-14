@@ -39,7 +39,7 @@ Following are the technologies that I used in this project(shoe store)
 
 1. one the repo
    ```sh
-   git clone https://github.com/Maryam-bit/expense-tracker-context-api.git
+   git clone https://github.com/Maryam-bit/expenseTracker-redux.git
    ```
 2. stall NPM packages
    ```sh
