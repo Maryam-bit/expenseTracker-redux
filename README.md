@@ -2,7 +2,7 @@
 <!-- <br /> -->
 <div align="center">
   
-  <img src="http://expense-tracker-reduxx.surge.sh/static/media/logoo.1999b8fb.png" alt="Expense Tracker in Redux" width="150">
+  <img src="http://expense-tracker-reduxx.surge.sh/static/media/logoo.1999b8fb.png" alt="Expense Tracker in Redux" width="100">
 
   <h1 align="center">EXPENSE TRACKER APP IN REDUX</h1>
 </div>
@@ -27,7 +27,8 @@ https://youtu.be/HllBd4jKCAg
 
 Following are the technologies that I used in this project(shoe store)
 * React JS (Javascript framework)
-* Context API
+* Redux
+* Redux Persist
 * SASS (CSS preprocessor)
 * CSS
 * Bootstrap
